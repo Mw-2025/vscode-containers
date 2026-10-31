@@ -3166,9 +3166,9 @@
         "@microsoft/vscode-azext-azureauth": "^5.1.1",
         "@microsoft/vscode-azext-azureutils": "^4.0.0",
         "@microsoft/vscode-azext-utils": "^4.0.0",
-        "@microsoft/vscode-container-client": "^0.5.1",
+        "@microsoft/vscode-container-client": "^0.5.4",
         "@microsoft/vscode-docker-registries": "^0.4.1",
-        "@microsoft/vscode-inproc-mcp": "^0.1.0",
+        "@microsoft/vscode-inproc-mcp": "^1.1.0",
         "@microsoft/vscode-processutils": "^0.2.1",
         "dayjs": "^1.11.7",
         "dockerfile-language-server-nodejs": "^0.15.0",
@@ -3180,7 +3180,7 @@
         "vscode-languageclient": "^9.0.1",
         "vscode-tas-client": "^0.1.75",
         "xml2js": "^0.6.0",
-        "zod": "~3"
+        "zod": "~4"
     },
     "overrides": {
         "iconv-lite": "^0.7.0",
